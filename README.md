@@ -5,3 +5,5 @@
 <p>C</p>
 <p>C++</p>
 <p>Java</p>
+<h2>LinkedIn Profile</h2>
+<a href="https://www.linkedin.com/in/vaishnavi-sisodiya-09558721b">PROFILE</a>
