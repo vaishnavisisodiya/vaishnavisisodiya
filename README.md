@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **CPP,DSA,Nodejs**
+- 💬 Ask me about **CPP, DSA, Nodejs**
 
 - 📫 How to reach me **vaishvi.sisodiya28@gmail.com**
 
